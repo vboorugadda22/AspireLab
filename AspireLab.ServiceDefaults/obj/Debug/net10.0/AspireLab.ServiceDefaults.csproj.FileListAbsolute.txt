@@ -1,0 +1,13 @@
+C:\Users\vboor\AspireLab\AspireLab.ServiceDefaults\bin\Debug\net10.0\AspireLab.ServiceDefaults.deps.json
+C:\Users\vboor\AspireLab\AspireLab.ServiceDefaults\bin\Debug\net10.0\AspireLab.ServiceDefaults.dll
+C:\Users\vboor\AspireLab\AspireLab.ServiceDefaults\bin\Debug\net10.0\AspireLab.ServiceDefaults.pdb
+C:\Users\vboor\AspireLab\AspireLab.ServiceDefaults\obj\Debug\net10.0\AspireLab.ServiceDefaults.csproj.AssemblyReference.cache
+C:\Users\vboor\AspireLab\AspireLab.ServiceDefaults\obj\Debug\net10.0\AspireLab.ServiceDefaults.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vboor\AspireLab\AspireLab.ServiceDefaults\obj\Debug\net10.0\AspireLab.ServiceDefaults.AssemblyInfoInputs.cache
+C:\Users\vboor\AspireLab\AspireLab.ServiceDefaults\obj\Debug\net10.0\AspireLab.ServiceDefaults.AssemblyInfo.cs
+C:\Users\vboor\AspireLab\AspireLab.ServiceDefaults\obj\Debug\net10.0\AspireLab.ServiceDefaults.csproj.CoreCompileInputs.cache
+C:\Users\vboor\AspireLab\AspireLab.ServiceDefaults\obj\Debug\net10.0\AspireLab.ServiceDefaults.dll
+C:\Users\vboor\AspireLab\AspireLab.ServiceDefaults\obj\Debug\net10.0\refint\AspireLab.ServiceDefaults.dll
+C:\Users\vboor\AspireLab\AspireLab.ServiceDefaults\obj\Debug\net10.0\AspireLab.ServiceDefaults.pdb
+C:\Users\vboor\AspireLab\AspireLab.ServiceDefaults\obj\Debug\net10.0\ref\AspireLab.ServiceDefaults.dll
+C:\Users\vboor\AspireLab\AspireLab.ServiceDefaults\obj\Debug\net10.0\AspireLa.C03D92EE.Up2Date

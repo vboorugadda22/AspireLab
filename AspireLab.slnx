@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="AspireLab.AppHost/AspireLab.AppHost.csproj" />
+  <Project Path="AspireLab.ServiceDefaults/AspireLab.ServiceDefaults.csproj" />
+  <Project Path="AspireLab.WebApi/AspireLab.WebApi.csproj" />
+</Solution>
